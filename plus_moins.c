@@ -3,7 +3,7 @@
 # include<time.h>
 # include<string.h>
 /******************************/
-# include"../headers/plus_moins.h"
+# include"plus_moins.h"
 
 void menu(int var)
 {
