@@ -2,7 +2,7 @@
 # include<stdlib.h>
 # include<time.h>
 /******************************/
-# include"../headers/plus_moins.h"
+# include"plus_moins.h"
 
 int main(int argc,char *argv[])
 {
